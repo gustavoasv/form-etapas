@@ -1,5 +1,5 @@
 # formulario-etapas
- Aplicação que consiste em um formlário de cadastro por etapas desenvolvido com React + TypeScript
+ Aplicação que consiste em um formulário de cadastro por etapas desenvolvido com React + TypeScript
  
  ## Tecnologias
  - ReactJs
