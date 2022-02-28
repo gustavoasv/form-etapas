@@ -3,6 +3,7 @@
  
  ## Tecnologias
  - ReactJs
+ - TypeScript
  - Context-Api
  - react-router-dom
  - styled-components
